@@ -1,0 +1,1 @@
+This is the first project for the Odin Project. Cloning the Google homepage. While I do have a fair amount of HTML/CSS/JS experience I want to go throguh this to see if I pick up anything new. 

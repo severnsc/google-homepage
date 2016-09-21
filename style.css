@@ -1,0 +1,108 @@
+body{
+	margin:0;
+}
+#search{
+	width:638px;
+	height:40px;
+	font:16px arial sans-serif;
+}
+.buttons{
+	height: 36px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #757575;
+    font-weight: bold;
+    padding: 0 16px;
+    margin: 11px 4px;
+
+}
+.space{
+	padding-top:18px;
+}
+.buttons:hover {
+    border: 1px solid #c6c6c6;
+    color: #222;
+}
+#logo{
+
+    padding: 109px;
+
+}
+#top{
+
+    margin-top: 89px;
+    height: 233px;
+
+}
+a{
+	text-decoration:none;
+	color:#000;
+	font:13px sans-serif;
+}
+#nav{
+	position: absolute;
+    top: 20px;
+    right: 0;
+    padding:0 30px;
+}
+.nav{
+	color: #000;
+    text-decoration: none;
+    padding-left:15px;
+}
+a:hover{
+	opacity: .85;
+	text-decoration: underline;
+}
+a:visited{
+	color:#609;
+}
+#options{
+	display: inline-block;
+	background-image: url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-position: -139px -38px;
+    background-size: 528px 68px;
+    height: 30px;
+    vertical-align: middle;
+    opacity: .55;
+    color: #000;
+    width: 30px;
+}
+#group1{
+	padding-right: 15px;
+	display: inline-block;
+}
+#notifications{
+	background-image: url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-size: 528px 68px;
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    display: inline-block;
+}
+#profile{
+	border-radius: 50%;
+	vertical-align: middle;
+	width:32px;
+	height:32px;
+}
+footer{
+	background-color:#f2f2f2;
+	margin: 0;
+    line-height: 40px;
+    min-width: 980px;
+    color:#666;
+    border-top: 1px solid #e4e4e4;
+}
+.left{
+	margin-left: 27px;
+}
+#fright{
+	float:right;
+	margin-right:30px;
+}
+#box2{
+	height:250px;
+}
